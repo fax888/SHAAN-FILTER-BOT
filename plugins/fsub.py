@@ -1,6 +1,5 @@
-import json
-import os
-from telethon import TelegramClient, events, Button, functions, error
+from telethon import TelegramClient, events, Button, functions, errors
+
 
 # --- CONFIGURATION ---
 API_ID = 1234567          
