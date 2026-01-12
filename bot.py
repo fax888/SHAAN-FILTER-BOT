@@ -7,7 +7,7 @@ logging.getLogger().setLevel(logging.INFO)
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
 logging.getLogger("imdbpy").setLevel(logging.ERROR)
 logging.getLogger("cinemagoer").setLevel(logging.ERROR)
-
+logging.getLogger("telethon").setLevel(logging.ERROR)
 
 
 from telethon import events, Button
