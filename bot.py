@@ -120,6 +120,7 @@ class Bot(Client):
                 current += 1
 
 
-app = Bot()
+from client import client
+
 if __name__ == "__main__":
-    app.run()
+    client.run()
