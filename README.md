@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/49ed60d0e26414234285d.jpg" alt=JK-FILTER-BOT Logo">
+  <img src="https://graph.org/file/49ed60d0e264142342hahd.jpg" alt=JK-FILTER-BOT Logo">
 </p>
 <h1 align="center">
-  𝑱𝑲 𝑭𝑰𝑳𝑻𝑬𝑹 𝑩𝑶𝑻
+  𝐒𝐇𝐀𝐀𝐍 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝑱𝑲+𝑭𝑰𝑳𝑻𝑬𝑹+𝑩𝑶𝑻!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+˜”°•✩•°”˜+𝙹𝙺+𝙳𝙴𝚅𝙻𝙾𝙿𝙴𝚁+˜”°•✩•°”˜!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐒𝐇𝐀𝐀𝐍+𝑭𝑰𝑳𝑻𝑬𝑹+𝑩𝑶𝑻!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+˜”°•✩•°”˜+ꜰᴀx+𝙳𝙴𝚅𝙻𝙾𝙿𝙴𝚁+˜”°•✩•°”˜!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
@@ -47,7 +47,7 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/lusifilms'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/MTW_MOVIES'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -89,6 +89,8 @@
 • /delg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟.
 • /delallg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
 • /deletefiles - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐹𝑖𝑙𝑒𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
+𝗙𝗦𝗨𝗕 𝗣𝗔𝗡𝗘𝗟 𝗔𝗗𝗗𝗘𝗗𝗗
+𝗨𝗦𝗘 /fsub
 ```
 
 ## Variables
@@ -105,7 +107,7 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/jkdevloper01/JK-FILTER-BOT/blob/master/info.py) for more optional variables
+* Check [info.py](https://github.com/SHAAN-FILTER-BOT/JK-FILTER-BOT/blob/master/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
@@ -171,7 +173,7 @@ python3 bot.py
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Joel-TGX](https://img.shields.io/static/v1?label=˜”°•✩•°”˜ 𝙹𝙺 𝙳𝙴𝚅𝙻𝙾𝙿𝙴𝚁 ˜”°•✩•°”˜&message=Github&color=critical)](https://github.com/jkdevloper01)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/lusifilms)
+* [![Contact](https://img.shields.io/static/v1?label=Conta/t+Developer&message=On+Telegram&color=critical)](https://telegram.me/lusifilms)
 
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
