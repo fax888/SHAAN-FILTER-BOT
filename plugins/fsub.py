@@ -1,7 +1,6 @@
-import os
-import json
-from telethon import events, Button
-
+from pyrogram import Client, filters
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+import json, os
 # ✅ SAFE IMPORT (Render compatible)
 try:
     from bot import client
