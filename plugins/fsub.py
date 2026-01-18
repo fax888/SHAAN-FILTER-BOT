@@ -1,6 +1,6 @@
 from pyrogram import Client, filters, enums
 from pyrogram.types import ChatJoinRequest, Message
-from info import REQ_CHANNEL,ADMINS
+from info import REQST_CHANNEL,ADMINS
 from database.users_chats_db import db
 
 
