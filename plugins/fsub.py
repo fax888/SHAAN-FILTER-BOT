@@ -1,6 +1,8 @@
-from pyrogram import Client, filters
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-import json, os
+from pyrogram import Client, filters, enums
+from pyrogram.types import ChatJoinRequest, Message
+from info import REQ_CHANNEL1, REQ_CHANNEL2, ADMINS
+from database.users_chats_db import db
+
 
 ADMIN_ID = 1122334455  # 🔴 change to your Telegram ID
 DB_FILE = "fsub.json"
